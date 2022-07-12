@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#ff123456"
+    android:gravity="center_horizontal"
+    android:orientation="vertical">
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:background="#ff234567"
+        android:gravity="center_horizontal"
+        android:paddingLeft="10dp"
+        android:paddingTop="20dp"
+        android:paddingRight="10dp"
+        android:paddingBottom="20dp"
+        android:text="Questionarie"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:textSize="25sp" />
+
+    <TableLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:paddingLeft="10dp"
+        android:paddingRight="10dp">
+
+        <TableRow>
+
+            <TextView
+                android:gravity="center"
+                android:layout_width="wrap_content"
+                android:layout_weight="1"
+                android:paddingRight="5dp"
+                android:text="From 0 to 10, being 10 the most confortable, how comfortable would you describe the input method?"
+                android:textAppearance="?android:attr/textAppearanceMedium"/>
+
+
+        </TableRow>
+        <TableRow>
+            <SeekBar
+                android:id="@+id/seekBar1"
+                android:paddingTop="10dp"
+                android:paddingBottom="10dp"
+                android:layout_width="wrap_content"
+                android:layout_weight="1"
+                android:layout_height="wrap_content"
+                android:max="10"
+                android:indeterminate="false"
+                android:progress="5"/>
+            <TextView
+                android:id="@+id/seekbar_value"
+
+                android:gravity="center"
+                android:layout_weight="0"
+                android:layout_height="wrap_content"
+                android:layout_width="wrap_content"
+                android:paddingRight="15dp"
+                android:paddingLeft="15dp"
+                android:paddingTop="15dp"
+                android:text="13"
+                android:textAppearance="?android:attr/textAppearanceMedium"/>
+
+        </TableRow>
+        <TableRow>
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:paddingRight="25dp">
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:gravity="left"
+                android:text="0"
+                android:textAppearance="?android:attr/textAppearanceMedium" />
+            <TextView
+                android:layout_weight="1"
+                android:gravity="center"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="5"
+                android:textAppearance="?android:attr/textAppearanceMedium"/>
+
+            <TextView
+                android:gravity="right"
+                android:layout_weight="1"
+                android:paddingRight="35dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="10"
+                android:textAppearance="?android:attr/textAppearanceMedium"/>
+            </LinearLayout>
+        </TableRow>
+
+    </TableLayout>
+
+    <LinearLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:gravity="center_horizontal"
+        android:orientation="horizontal">
+        <Button
+            android:id="@+id/button04"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:onClick="setup_click"
+            android:text="@string/button04text"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            tools:ignore="Suspicious0dp"/>
+        <Button
+            android:id="@+id/save_button"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="2"
+            android:onClick="save_click"
+            android:text="@string/button05text"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            tools:ignore="Suspicious0dp"/>
+        <Button
+            android:id="@+id/Button03"
+            android:layout_width="11dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:onClick="clickExit"
+            android:text="@string/button03text"
+            android:textAppearance="?android:attr/textAppearanceMedium"/>
+        <Button
+            android:id="@+id/stats_click"
+            android:layout_width="11dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:onClick="stats_click"
+            android:text="Stats"
+            android:textAppearance="?android:attr/textAppearanceMedium"/>
+
+    </LinearLayout>
+
+
+
+</LinearLayout>

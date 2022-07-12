@@ -1,0 +1,85 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="ca.yorku.eecs.mack.demotiltball78040"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="16"
+8-->D:\Desktop\Master's\Mobile User Interfaces\Project4443\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="27" />
+9-->D:\Desktop\Master's\Mobile User Interfaces\Project4443\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.VIBRATE" />
+11-->D:\Desktop\Master's\Mobile User Interfaces\Project4443\app\src\main\AndroidManifest.xml:8:5-66
+11-->D:\Desktop\Master's\Mobile User Interfaces\Project4443\app\src\main\AndroidManifest.xml:8:22-63
+12    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+12-->D:\Desktop\Master's\Mobile User Interfaces\Project4443\app\src\main\AndroidManifest.xml:9:5-81
+12-->D:\Desktop\Master's\Mobile User Interfaces\Project4443\app\src\main\AndroidManifest.xml:9:22-78
+13    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+13-->D:\Desktop\Master's\Mobile User Interfaces\Project4443\app\src\main\AndroidManifest.xml:10:5-80
+13-->D:\Desktop\Master's\Mobile User Interfaces\Project4443\app\src\main\AndroidManifest.xml:10:22-77
+14    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+14-->D:\Desktop\Master's\Mobile User Interfaces\Project4443\app\src\main\AndroidManifest.xml:11:5-75
+14-->D:\Desktop\Master's\Mobile User Interfaces\Project4443\app\src\main\AndroidManifest.xml:11:22-72
+15
+16    <application
+16-->D:\Desktop\Master's\Mobile User Interfaces\Project4443\app\src\main\AndroidManifest.xml:13:5-44:19
+17        android:allowBackup="false"
+17-->D:\Desktop\Master's\Mobile User Interfaces\Project4443\app\src\main\AndroidManifest.xml:14:9-36
+18        android:debuggable="true"
+19        android:icon="@mipmap/ic_launcher"
+19-->D:\Desktop\Master's\Mobile User Interfaces\Project4443\app\src\main\AndroidManifest.xml:15:9-43
+20        android:label="@string/app_name"
+20-->D:\Desktop\Master's\Mobile User Interfaces\Project4443\app\src\main\AndroidManifest.xml:16:9-41
+21        android:testOnly="true"
+22        android:theme="@android:style/Theme.NoTitleBar.Fullscreen" >
+22-->D:\Desktop\Master's\Mobile User Interfaces\Project4443\app\src\main\AndroidManifest.xml:17:9-67
+23        <activity
+23-->D:\Desktop\Master's\Mobile User Interfaces\Project4443\app\src\main\AndroidManifest.xml:18:9-20:48
+24            android:name="ca.yorku.eecs.mack.demotiltball78040.PathAnalysisActivity"
+24-->D:\Desktop\Master's\Mobile User Interfaces\Project4443\app\src\main\AndroidManifest.xml:19:13-49
+25            android:label="@string/app_name" />
+25-->D:\Desktop\Master's\Mobile User Interfaces\Project4443\app\src\main\AndroidManifest.xml:20:13-45
+26        <activity android:name="ca.yorku.eecs.mack.demotiltball78040.ResultsActivity" />
+26-->D:\Desktop\Master's\Mobile User Interfaces\Project4443\app\src\main\AndroidManifest.xml:22:9-53
+26-->D:\Desktop\Master's\Mobile User Interfaces\Project4443\app\src\main\AndroidManifest.xml:22:19-50
+27        <activity
+27-->D:\Desktop\Master's\Mobile User Interfaces\Project4443\app\src\main\AndroidManifest.xml:23:9-32:20
+28            android:name="ca.yorku.eecs.mack.demotiltball78040.DemoTiltBallSetup"
+28-->D:\Desktop\Master's\Mobile User Interfaces\Project4443\app\src\main\AndroidManifest.xml:24:13-46
+29            android:label="@string/app_name" >
+29-->D:\Desktop\Master's\Mobile User Interfaces\Project4443\app\src\main\AndroidManifest.xml:25:13-45
+30            <intent-filter>
+30-->D:\Desktop\Master's\Mobile User Interfaces\Project4443\app\src\main\AndroidManifest.xml:26:13-31:29
+31                <action android:name="android.intent.action.MAIN" />
+31-->D:\Desktop\Master's\Mobile User Interfaces\Project4443\app\src\main\AndroidManifest.xml:27:17-69
+31-->D:\Desktop\Master's\Mobile User Interfaces\Project4443\app\src\main\AndroidManifest.xml:27:25-66
+32                <action android:name="android.intent.action.VIEW" />
+32-->D:\Desktop\Master's\Mobile User Interfaces\Project4443\app\src\main\AndroidManifest.xml:28:17-69
+32-->D:\Desktop\Master's\Mobile User Interfaces\Project4443\app\src\main\AndroidManifest.xml:28:25-66
+33
+34                <category android:name="android.intent.category.LAUNCHER" />
+34-->D:\Desktop\Master's\Mobile User Interfaces\Project4443\app\src\main\AndroidManifest.xml:30:17-77
+34-->D:\Desktop\Master's\Mobile User Interfaces\Project4443\app\src\main\AndroidManifest.xml:30:27-74
+35            </intent-filter>
+36        </activity>
+37        <activity
+37-->D:\Desktop\Master's\Mobile User Interfaces\Project4443\app\src\main\AndroidManifest.xml:33:9-36:74
+38            android:name="ca.yorku.eecs.mack.demotiltball78040.DemoTiltBall78040Activity"
+38-->D:\Desktop\Master's\Mobile User Interfaces\Project4443\app\src\main\AndroidManifest.xml:34:13-54
+39            android:label="@string/app_name"
+39-->D:\Desktop\Master's\Mobile User Interfaces\Project4443\app\src\main\AndroidManifest.xml:35:13-45
+40            android:theme="@android:style/Theme.NoTitleBar.Fullscreen" />
+40-->D:\Desktop\Master's\Mobile User Interfaces\Project4443\app\src\main\AndroidManifest.xml:36:13-71
+41        <activity
+41-->D:\Desktop\Master's\Mobile User Interfaces\Project4443\app\src\main\AndroidManifest.xml:37:9-40:74
+42            android:name="ca.yorku.eecs.mack.demotiltball78040.InputsActivity"
+42-->D:\Desktop\Master's\Mobile User Interfaces\Project4443\app\src\main\AndroidManifest.xml:38:13-43
+43            android:label="@string/app_name"
+43-->D:\Desktop\Master's\Mobile User Interfaces\Project4443\app\src\main\AndroidManifest.xml:39:13-45
+44            android:theme="@android:style/Theme.NoTitleBar.Fullscreen" />
+44-->D:\Desktop\Master's\Mobile User Interfaces\Project4443\app\src\main\AndroidManifest.xml:40:13-71
+45    </application>
+46
+47</manifest>

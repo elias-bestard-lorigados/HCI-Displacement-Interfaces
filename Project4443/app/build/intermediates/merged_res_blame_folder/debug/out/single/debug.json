@@ -1,0 +1,186 @@
+[
+    {
+        "merged": "D:\\Desktop\\Master's\\Mobile User Interfaces\\Project4443\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ball.png.flat",
+        "source": "D:\\Desktop\\Master's\\Mobile User Interfaces\\Project4443\\app\\src\\main\\res\\drawable-mdpi\\ball.png"
+    },
+    {
+        "merged": "D:\\Desktop\\Master's\\Mobile User Interfaces\\Project4443\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "D:\\Desktop\\Master's\\Mobile User Interfaces\\Project4443\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\Desktop\\Master's\\Mobile User Interfaces\\Project4443\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "D:\\Desktop\\Master's\\Mobile User Interfaces\\Project4443\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "D:\\Desktop\\Master's\\Mobile User Interfaces\\Project4443\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_icon.png.flat",
+        "source": "D:\\Desktop\\Master's\\Mobile User Interfaces\\Project4443\\app\\src\\main\\res\\drawable-mdpi\\icon.png"
+    },
+    {
+        "merged": "D:\\Desktop\\Master's\\Mobile User Interfaces\\Project4443\\app\\build\\intermediates\\res\\merged\\debug\\layout_main_button_input.xml.flat",
+        "source": "D:\\Desktop\\Master's\\Mobile User Interfaces\\Project4443\\app\\src\\main\\res\\layout\\main_button_input.xml"
+    },
+    {
+        "merged": "D:\\Desktop\\Master's\\Mobile User Interfaces\\Project4443\\app\\build\\intermediates\\res\\merged\\debug\\layout_spinnerstyle.xml.flat",
+        "source": "D:\\Desktop\\Master's\\Mobile User Interfaces\\Project4443\\app\\src\\main\\res\\layout\\spinnerstyle.xml"
+    },
+    {
+        "merged": "D:\\Desktop\\Master's\\Mobile User Interfaces\\Project4443\\app\\build\\intermediates\\res\\merged\\debug\\raw_my_tone.mp3.flat",
+        "source": "D:\\Desktop\\Master's\\Mobile User Interfaces\\Project4443\\app\\src\\main\\res\\raw\\my_tone.mp3"
+    },
+    {
+        "merged": "D:\\Desktop\\Master's\\Mobile User Interfaces\\Project4443\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_right_arrow.png.flat",
+        "source": "D:\\Desktop\\Master's\\Mobile User Interfaces\\Project4443\\app\\src\\main\\res\\drawable-hdpi\\right_arrow.png"
+    },
+    {
+        "merged": "D:\\Desktop\\Master's\\Mobile User Interfaces\\Project4443\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "D:\\Desktop\\Master's\\Mobile User Interfaces\\Project4443\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "D:\\Desktop\\Master's\\Mobile User Interfaces\\Project4443\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_up_arrow.png.flat",
+        "source": "D:\\Desktop\\Master's\\Mobile User Interfaces\\Project4443\\app\\src\\main\\res\\drawable-hdpi\\up_arrow.png"
+    },
+    {
+        "merged": "D:\\Desktop\\Master's\\Mobile User Interfaces\\Project4443\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ball.png.flat",
+        "source": "D:\\Desktop\\Master's\\Mobile User Interfaces\\Project4443\\app\\src\\main\\res\\drawable-hdpi\\ball.png"
+    },
+    {
+        "merged": "D:\\Desktop\\Master's\\Mobile User Interfaces\\Project4443\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_right_arrow_press.png.flat",
+        "source": "D:\\Desktop\\Master's\\Mobile User Interfaces\\Project4443\\app\\src\\main\\res\\drawable-hdpi\\right_arrow_press.png"
+    },
+    {
+        "merged": "D:\\Desktop\\Master's\\Mobile User Interfaces\\Project4443\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_up_arrow_press.png.flat",
+        "source": "D:\\Desktop\\Master's\\Mobile User Interfaces\\Project4443\\app\\src\\main\\res\\drawable-hdpi\\up_arrow_press.png"
+    },
+    {
+        "merged": "D:\\Desktop\\Master's\\Mobile User Interfaces\\Project4443\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "D:\\Desktop\\Master's\\Mobile User Interfaces\\Project4443\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Desktop\\Master's\\Mobile User Interfaces\\Project4443\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_down_arrow.png.flat",
+        "source": "D:\\Desktop\\Master's\\Mobile User Interfaces\\Project4443\\app\\src\\main\\res\\drawable-hdpi\\down_arrow.png"
+    },
+    {
+        "merged": "D:\\Desktop\\Master's\\Mobile User Interfaces\\Project4443\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "D:\\Desktop\\Master's\\Mobile User Interfaces\\Project4443\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Desktop\\Master's\\Mobile User Interfaces\\Project4443\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_right.xml.flat",
+        "source": "D:\\Desktop\\Master's\\Mobile User Interfaces\\Project4443\\app\\src\\main\\res\\drawable-hdpi\\right.xml"
+    },
+    {
+        "merged": "D:\\Desktop\\Master's\\Mobile User Interfaces\\Project4443\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "D:\\Desktop\\Master's\\Mobile User Interfaces\\Project4443\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "D:\\Desktop\\Master's\\Mobile User Interfaces\\Project4443\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "D:\\Desktop\\Master's\\Mobile User Interfaces\\Project4443\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Desktop\\Master's\\Mobile User Interfaces\\Project4443\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\Desktop\\Master's\\Mobile User Interfaces\\Project4443\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\Desktop\\Master's\\Mobile User Interfaces\\Project4443\\app\\build\\intermediates\\res\\merged\\debug\\layout_setup.xml.flat",
+        "source": "D:\\Desktop\\Master's\\Mobile User Interfaces\\Project4443\\app\\src\\main\\res\\layout\\setup.xml"
+    },
+    {
+        "merged": "D:\\Desktop\\Master's\\Mobile User Interfaces\\Project4443\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_results.xml.flat",
+        "source": "D:\\Desktop\\Master's\\Mobile User Interfaces\\Project4443\\app\\src\\main\\res\\layout\\activity_results.xml"
+    },
+    {
+        "merged": "D:\\Desktop\\Master's\\Mobile User Interfaces\\Project4443\\app\\build\\intermediates\\res\\merged\\debug\\raw_game_over.mp3.flat",
+        "source": "D:\\Desktop\\Master's\\Mobile User Interfaces\\Project4443\\app\\src\\main\\res\\raw\\game_over.mp3"
+    },
+    {
+        "merged": "D:\\Desktop\\Master's\\Mobile User Interfaces\\Project4443\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_left_arrow_press.png.flat",
+        "source": "D:\\Desktop\\Master's\\Mobile User Interfaces\\Project4443\\app\\src\\main\\res\\drawable-hdpi\\left_arrow_press.png"
+    },
+    {
+        "merged": "D:\\Desktop\\Master's\\Mobile User Interfaces\\Project4443\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\Desktop\\Master's\\Mobile User Interfaces\\Project4443\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\Desktop\\Master's\\Mobile User Interfaces\\Project4443\\app\\build\\intermediates\\res\\merged\\debug\\layout_main.xml.flat",
+        "source": "D:\\Desktop\\Master's\\Mobile User Interfaces\\Project4443\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "D:\\Desktop\\Master's\\Mobile User Interfaces\\Project4443\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "D:\\Desktop\\Master's\\Mobile User Interfaces\\Project4443\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "D:\\Desktop\\Master's\\Mobile User Interfaces\\Project4443\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_icon.png.flat",
+        "source": "D:\\Desktop\\Master's\\Mobile User Interfaces\\Project4443\\app\\src\\main\\res\\drawable-hdpi\\icon.png"
+    },
+    {
+        "merged": "D:\\Desktop\\Master's\\Mobile User Interfaces\\Project4443\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_down_arrow_press.png.flat",
+        "source": "D:\\Desktop\\Master's\\Mobile User Interfaces\\Project4443\\app\\src\\main\\res\\drawable-hdpi\\down_arrow_press.png"
+    },
+    {
+        "merged": "D:\\Desktop\\Master's\\Mobile User Interfaces\\Project4443\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_path_analysis.xml.flat",
+        "source": "D:\\Desktop\\Master's\\Mobile User Interfaces\\Project4443\\app\\src\\main\\res\\layout\\activity_path_analysis.xml"
+    },
+    {
+        "merged": "D:\\Desktop\\Master's\\Mobile User Interfaces\\Project4443\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_left.xml.flat",
+        "source": "D:\\Desktop\\Master's\\Mobile User Interfaces\\Project4443\\app\\src\\main\\res\\drawable-hdpi\\left.xml"
+    },
+    {
+        "merged": "D:\\Desktop\\Master's\\Mobile User Interfaces\\Project4443\\app\\build\\intermediates\\res\\merged\\debug\\layout_main_dual_joystick_input.xml.flat",
+        "source": "D:\\Desktop\\Master's\\Mobile User Interfaces\\Project4443\\app\\src\\main\\res\\layout\\main_dual_joystick_input.xml"
+    },
+    {
+        "merged": "D:\\Desktop\\Master's\\Mobile User Interfaces\\Project4443\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_up.xml.flat",
+        "source": "D:\\Desktop\\Master's\\Mobile User Interfaces\\Project4443\\app\\src\\main\\res\\drawable-hdpi\\up.xml"
+    },
+    {
+        "merged": "D:\\Desktop\\Master's\\Mobile User Interfaces\\Project4443\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_left_arrow.png.flat",
+        "source": "D:\\Desktop\\Master's\\Mobile User Interfaces\\Project4443\\app\\src\\main\\res\\drawable-hdpi\\left_arrow.png"
+    },
+    {
+        "merged": "D:\\Desktop\\Master's\\Mobile User Interfaces\\Project4443\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ball.png.flat",
+        "source": "D:\\Desktop\\Master's\\Mobile User Interfaces\\Project4443\\app\\src\\main\\res\\drawable-ldpi\\ball.png"
+    },
+    {
+        "merged": "D:\\Desktop\\Master's\\Mobile User Interfaces\\Project4443\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_down.xml.flat",
+        "source": "D:\\Desktop\\Master's\\Mobile User Interfaces\\Project4443\\app\\src\\main\\res\\drawable-hdpi\\down.xml"
+    },
+    {
+        "merged": "D:\\Desktop\\Master's\\Mobile User Interfaces\\Project4443\\app\\build\\intermediates\\res\\merged\\debug\\layout_paths_v.xml.flat",
+        "source": "D:\\Desktop\\Master's\\Mobile User Interfaces\\Project4443\\app\\src\\main\\res\\layout\\paths_v.xml"
+    },
+    {
+        "merged": "D:\\Desktop\\Master's\\Mobile User Interfaces\\Project4443\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "D:\\Desktop\\Master's\\Mobile User Interfaces\\Project4443\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Desktop\\Master's\\Mobile User Interfaces\\Project4443\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\Desktop\\Master's\\Mobile User Interfaces\\Project4443\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\Desktop\\Master's\\Mobile User Interfaces\\Project4443\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "D:\\Desktop\\Master's\\Mobile User Interfaces\\Project4443\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "D:\\Desktop\\Master's\\Mobile User Interfaces\\Project4443\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "D:\\Desktop\\Master's\\Mobile User Interfaces\\Project4443\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\Desktop\\Master's\\Mobile User Interfaces\\Project4443\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "D:\\Desktop\\Master's\\Mobile User Interfaces\\Project4443\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Desktop\\Master's\\Mobile User Interfaces\\Project4443\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "D:\\Desktop\\Master's\\Mobile User Interfaces\\Project4443\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "D:\\Desktop\\Master's\\Mobile User Interfaces\\Project4443\\app\\build\\intermediates\\res\\merged\\debug\\layout_main_joystick_input.xml.flat",
+        "source": "D:\\Desktop\\Master's\\Mobile User Interfaces\\Project4443\\app\\src\\main\\res\\layout\\main_joystick_input.xml"
+    },
+    {
+        "merged": "D:\\Desktop\\Master's\\Mobile User Interfaces\\Project4443\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "D:\\Desktop\\Master's\\Mobile User Interfaces\\Project4443\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "D:\\Desktop\\Master's\\Mobile User Interfaces\\Project4443\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_icon.png.flat",
+        "source": "D:\\Desktop\\Master's\\Mobile User Interfaces\\Project4443\\app\\src\\main\\res\\drawable-ldpi\\icon.png"
+    }
+]

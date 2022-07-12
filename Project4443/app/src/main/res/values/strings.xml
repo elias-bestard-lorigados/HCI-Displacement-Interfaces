@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Demo_TiltBall_Extended</string>
+    <string name="setuptitletext">Demo_TiltBall_Extended</string>
+    <string name="paramlabelorderofcontroltext">Order of control</string>
+    <string name="paramlabelgaintext">Sensitivity</string>
+    <string name="paramlabelpathwidthtext">Path width</string>
+    <string name="paramlabelpathtypetext">Input type</string>
+    <string name="grouplbl">Group</string>
+    <string name="paramMode">Mode</string>
+    <string name="dialog_text">Click OK to start the next step </string>
+    <string name="dialog_title"> NEXT </string>
+
+
+    <string name="button01text">OK</string>
+    <string name="button03text">Exit</string>
+    <string name="button04text">Setup</string>
+    <string name="button05text">Save</string>
+
+    <!--    <string name="number_laps_status"></string>-->
+    <!--    <string name="lap_time_status"></string>-->
+    <!--    <string name="in_path_time_status"></string>-->
+    <!--    <string name="wall_hints_status"></string>-->
+
+</resources>
